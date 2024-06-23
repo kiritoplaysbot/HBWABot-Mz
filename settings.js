@@ -17,21 +17,21 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 
 //info
 global.owner = ['916009259402'] // I phone number in thlak rawh
-global.ownernumber = '916009259402' // I phone number in thlak rawh
-global.ownername = "Kiyo" // I hming dah tel bawk la
+global.ownernumber = '918798751883' // I phone number in thlak rawh
+global.ownername = "dengii" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "kiyo-bot" // I bot hming tur dah la
+global.botname = "dengiii" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "916009259402@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "918798751883@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["916009259402@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["918798751883@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By kiyo-bot"
-global.author = "kiyobot"
+global.packname = "Sticker By dengiii-bot"
+global.author = "dengiii"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
